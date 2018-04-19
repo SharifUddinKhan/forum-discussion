@@ -35,6 +35,7 @@
                     <th>
                         DELETE
                     </th>
+                    <th></th>
                 </thead>
                 <tbody>
                     
